@@ -1,2 +1,2 @@
 # devloper-demo
-this is a demo for git & git-hub.
+this is a demo for Git & Git-hub.
